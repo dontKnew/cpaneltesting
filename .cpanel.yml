@@ -1,0 +1,4 @@
+deployment:
+    task:
+        - export DEPLOYPATH=/home4/elect7wk/rapidexworldwide.com/testing/gitcontrol
+        - /bin/cp * $DEPLOYPATH
